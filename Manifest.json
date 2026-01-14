@@ -1,0 +1,24 @@
+{
+  "name": "Control Financiero",
+  "short_name": "Finanzas",
+  "description": "App de control financiero personal",
+  "start_url": "https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#10b981",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://jelg102.github.io/finanzas-app/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://jelg102.github.io/finanzas-app/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
